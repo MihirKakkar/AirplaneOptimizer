@@ -29,4 +29,4 @@ Applies the traveling salesman problem to the airplane industry and uses a quant
 - Create parameters and airspace limits (ie. can't fly over White House, etc.)
 - Have it work for more airports (more nodes)
 
-(YouTube Video)[https://www.youtube.com/watch?v=KKzbP9s_FK4&feature=youtu.be]
+[YouTube Video](https://www.youtube.com/watch?v=KKzbP9s_FK4&feature=youtu.be)
